@@ -1,0 +1,2 @@
+# GameDB-SuperGrafx
+NEC SuperGrafx
